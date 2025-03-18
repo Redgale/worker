@@ -1,0 +1,11 @@
+{
+    "name": "koyeb-block-access",
+    "version": "1.0.0",
+    "description": "Block all access",
+    "main": "handler.js",
+    "scripts": {
+      "start": "node handler.js"
+    },
+    "dependencies": {}
+  }
+  
